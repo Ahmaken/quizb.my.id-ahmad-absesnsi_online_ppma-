@@ -1,4 +1,5 @@
 <?php
-// coba.php - dibuat otomatis
-// Silakan ganti konten sesuai kebutuhan
-echo "File coba.php berhasil dibuat.";
+// coba.php - diubah otomatis
+// Isi diminta oleh pengguna
+echo "Allahu Akbar";
+
