@@ -1,0 +1,44 @@
+├── assets/
+│   ├── css/
+│   │   └── style.css
+│   └── js/
+│       └── script.js
+├── includes/
+│   ├── config.php
+│   ├── auth.php
+│   ├── functions.php
+│   ├── guru_functions.php
+│   ├── hijri_functions.php
+│   ├── init.php
+│   └── navigation.php
+├── pages/
+│   ├── absensi.php
+│   ├── absensi_guru.php
+│   ├── absensi_otomatis_setting.php
+│   ├── alumni.php
+│   ├── cron_absensi_otomatis.php
+│   ├── cron_status.php
+│   ├── dashboard.php
+│   ├── database.php
+│   ├── jadwal.php
+│   ├── jurnal.php
+│   ├── kamar.php
+│   ├── kelas.php
+│   ├── pelanggaran.php
+│   ├── pengaturan_notifikasi.php
+│   ├── rekapitulasi.php
+│   ├── settings.php
+│   ├── test_absensi_guru.php
+│   ├── unauthorized.php
+│   └── users.php
+├── templates/
+│   └── template_import_murid.xlsx
+├── uploads/
+│   ├── foto_profil
+│   │   └── default-avatar.png
+│   └── profil
+│   │   └── default-avatar.png
+├── api_sync.php
+├── cron_absensi_otomatis.php
+├── index.php
+└── logout.php
